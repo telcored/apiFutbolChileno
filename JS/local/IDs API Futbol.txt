@@ -1,0 +1,16 @@
+fetch("https://v3.football.api-sports.io/standings?league=265&season=2023", {
+	"method": "GET",
+	"headers": {
+		"x-rapidapi-host": "v3.football.api-sports.io",
+		"x-rapidapi-key": "c131b12d7bca0bbfbf9ff09160ef5d4c"
+	}
+})
+
+
+V3
+265
+
+V2
+4967
+
+

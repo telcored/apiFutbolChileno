@@ -1,0 +1,749 @@
+{
+  "get": "standings",
+  "parameters": {
+    "league": "265",
+    "season": "2023"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "league": {
+        "id": 265,
+        "name": "Primera División",
+        "country": "Chile",
+        "logo": "https://media-4.api-sports.io/football/leagues/265.png",
+        "flag": "https://media-4.api-sports.io/flags/cl.svg",
+        "season": 2023,
+        "standings": [
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 2331,
+                "name": "Cobresal",
+                "logo": "https://media-4.api-sports.io/football/teams/2331.png"
+              },
+              "points": 52,
+              "goalsDiff": 17,
+              "group": "Primera División",
+              "form": "LWWLW",
+              "status": "same",
+              "description": "CONMEBOL Libertadores",
+              "all": {
+                "played": 27,
+                "win": 15,
+                "draw": 7,
+                "lose": 5,
+                "goals": {
+                  "for": 52,
+                  "against": 35
+                }
+              },
+              "home": {
+                "played": 14,
+                "win": 10,
+                "draw": 3,
+                "lose": 1,
+                "goals": {
+                  "for": 29,
+                  "against": 15
+                }
+              },
+              "away": {
+                "played": 13,
+                "win": 5,
+                "draw": 4,
+                "lose": 4,
+                "goals": {
+                  "for": 23,
+                  "against": 20
+                }
+              },
+              "update": "2023-11-12T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 2328,
+                "name": "Huachipato",
+                "logo": "https://media-4.api-sports.io/football/teams/2328.png"
+              },
+              "points": 50,
+              "goalsDiff": 15,
+              "group": "Primera División",
+              "form": "DWWWD",
+              "status": "same",
+              "description": "CONMEBOL Libertadores",
+              "all": {
+                "played": 27,
+                "win": 15,
+                "draw": 5,
+                "lose": 7,
+                "goals": {
+                  "for": 44,
+                  "against": 29
+                }
+              },
+              "home": {
+                "played": 13,
+                "win": 7,
+                "draw": 3,
+                "lose": 3,
+                "goals": {
+                  "for": 22,
+                  "against": 12
+                }
+              },
+              "away": {
+                "played": 14,
+                "win": 8,
+                "draw": 2,
+                "lose": 4,
+                "goals": {
+                  "for": 22,
+                  "against": 17
+                }
+              },
+              "update": "2023-11-12T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 2315,
+                "name": "Colo Colo",
+                "logo": "https://media-4.api-sports.io/football/teams/2315.png"
+              },
+              "points": 48,
+              "goalsDiff": 16,
+              "group": "Primera División",
+              "form": "WWLWW",
+              "status": "same",
+              "description": "CONMEBOL Libertadores Qualifiers",
+              "all": {
+                "played": 27,
+                "win": 13,
+                "draw": 9,
+                "lose": 5,
+                "goals": {
+                  "for": 43,
+                  "against": 27
+                }
+              },
+              "home": {
+                "played": 14,
+                "win": 9,
+                "draw": 3,
+                "lose": 2,
+                "goals": {
+                  "for": 27,
+                  "against": 10
+                }
+              },
+              "away": {
+                "played": 13,
+                "win": 4,
+                "draw": 6,
+                "lose": 3,
+                "goals": {
+                  "for": 16,
+                  "against": 17
+                }
+              },
+              "update": "2023-11-12T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 2318,
+                "name": "Palestino",
+                "logo": "https://media-4.api-sports.io/football/teams/2318.png"
+              },
+              "points": 43,
+              "goalsDiff": 3,
+              "group": "Primera División",
+              "form": "DWLWD",
+              "status": "same",
+              "description": "CONMEBOL Sudamericana",
+              "all": {
+                "played": 27,
+                "win": 12,
+                "draw": 7,
+                "lose": 8,
+                "goals": {
+                  "for": 41,
+                  "against": 38
+                }
+              },
+              "home": {
+                "played": 13,
+                "win": 7,
+                "draw": 3,
+                "lose": 3,
+                "goals": {
+                  "for": 20,
+                  "against": 15
+                }
+              },
+              "away": {
+                "played": 14,
+                "win": 5,
+                "draw": 4,
+                "lose": 5,
+                "goals": {
+                  "for": 21,
+                  "against": 23
+                }
+              },
+              "update": "2023-11-12T00:00:00+00:00"
+            },
+            {
+              "rank": 5,
+              "team": {
+                "id": 2325,
+                "name": "Everton de Vina",
+                "logo": "https://media-4.api-sports.io/football/teams/2325.png"
+              },
+              "points": 42,
+              "goalsDiff": 5,
+              "group": "Primera División",
+              "form": "DWWLL",
+              "status": "same",
+              "description": "CONMEBOL Sudamericana",
+              "all": {
+                "played": 27,
+                "win": 12,
+                "draw": 6,
+                "lose": 9,
+                "goals": {
+                  "for": 40,
+                  "against": 35
+                }
+              },
+              "home": {
+                "played": 14,
+                "win": 6,
+                "draw": 3,
+                "lose": 5,
+                "goals": {
+                  "for": 20,
+                  "against": 18
+                }
+              },
+              "away": {
+                "played": 13,
+                "win": 6,
+                "draw": 3,
+                "lose": 4,
+                "goals": {
+                  "for": 20,
+                  "against": 17
+                }
+              },
+              "update": "2023-11-12T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
+                "id": 2330,
+                "name": "Coquimbo Unido",
+                "logo": "https://media-4.api-sports.io/football/teams/2330.png"
+              },
+              "points": 41,
+              "goalsDiff": 0,
+              "group": "Primera División",
+              "form": "WWLWL",
+              "status": "same",
+              "description": "CONMEBOL Sudamericana",
+              "all": {
+                "played": 27,
+                "win": 12,
+                "draw": 5,
+                "lose": 10,
+                "goals": {
+                  "for": 37,
+                  "against": 37
+                }
+              },
+              "home": {
+                "played": 14,
+                "win": 8,
+                "draw": 2,
+                "lose": 4,
+                "goals": {
+                  "for": 20,
+                  "against": 18
+                }
+              },
+              "away": {
+                "played": 13,
+                "win": 4,
+                "draw": 3,
+                "lose": 6,
+                "goals": {
+                  "for": 17,
+                  "against": 19
+                }
+              },
+              "update": "2023-11-12T00:00:00+00:00"
+            },
+            {
+              "rank": 7,
+              "team": {
+                "id": 2994,
+                "name": "U. Catolica",
+                "logo": "https://media-4.api-sports.io/football/teams/2994.png"
+              },
+              "points": 37,
+              "goalsDiff": 2,
+              "group": "Primera División",
+              "form": "LWLWD",
+              "status": "same",
+              "description": "CONMEBOL Sudamericana",
+              "all": {
+                "played": 27,
+                "win": 10,
+                "draw": 7,
+                "lose": 10,
+                "goals": {
+                  "for": 42,
+                  "against": 40
+                }
+              },
+              "home": {
+                "played": 14,
+                "win": 5,
+                "draw": 4,
+                "lose": 5,
+                "goals": {
+                  "for": 21,
+                  "against": 20
+                }
+              },
+              "away": {
+                "played": 13,
+                "win": 5,
+                "draw": 3,
+                "lose": 5,
+                "goals": {
+                  "for": 21,
+                  "against": 20
+                }
+              },
+              "update": "2023-11-12T00:00:00+00:00"
+            },
+            {
+              "rank": 8,
+              "team": {
+                "id": 2323,
+                "name": "Universidad de Chile",
+                "logo": "https://media-4.api-sports.io/football/teams/2323.png"
+              },
+              "points": 37,
+              "goalsDiff": -2,
+              "group": "Primera División",
+              "form": "WLWLD",
+              "status": "up",
+              "description": null,
+              "all": {
+                "played": 27,
+                "win": 10,
+                "draw": 7,
+                "lose": 10,
+                "goals": {
+                  "for": 33,
+                  "against": 35
+                }
+              },
+              "home": {
+                "played": 13,
+                "win": 4,
+                "draw": 5,
+                "lose": 4,
+                "goals": {
+                  "for": 15,
+                  "against": 15
+                }
+              },
+              "away": {
+                "played": 14,
+                "win": 6,
+                "draw": 2,
+                "lose": 6,
+                "goals": {
+                  "for": 18,
+                  "against": 20
+                }
+              },
+              "update": "2023-11-12T00:00:00+00:00"
+            },
+            {
+              "rank": 9,
+              "team": {
+                "id": 2326,
+                "name": "Union La Calera",
+                "logo": "https://media-4.api-sports.io/football/teams/2326.png"
+              },
+              "points": 35,
+              "goalsDiff": -1,
+              "group": "Primera División",
+              "form": "LLWLD",
+              "status": "down",
+              "description": null,
+              "all": {
+                "played": 27,
+                "win": 8,
+                "draw": 11,
+                "lose": 8,
+                "goals": {
+                  "for": 36,
+                  "against": 37
+                }
+              },
+              "home": {
+                "played": 13,
+                "win": 4,
+                "draw": 5,
+                "lose": 4,
+                "goals": {
+                  "for": 18,
+                  "against": 19
+                }
+              },
+              "away": {
+                "played": 14,
+                "win": 4,
+                "draw": 6,
+                "lose": 4,
+                "goals": {
+                  "for": 18,
+                  "against": 18
+                }
+              },
+              "update": "2023-11-12T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
+              "team": {
+                "id": 2329,
+                "name": "A. Italiano",
+                "logo": "https://media-4.api-sports.io/football/teams/2329.png"
+              },
+              "points": 35,
+              "goalsDiff": -2,
+              "group": "Primera División",
+              "form": "WWLWL",
+              "status": "up",
+              "description": null,
+              "all": {
+                "played": 27,
+                "win": 10,
+                "draw": 5,
+                "lose": 12,
+                "goals": {
+                  "for": 36,
+                  "against": 38
+                }
+              },
+              "home": {
+                "played": 13,
+                "win": 6,
+                "draw": 3,
+                "lose": 4,
+                "goals": {
+                  "for": 17,
+                  "against": 13
+                }
+              },
+              "away": {
+                "played": 14,
+                "win": 4,
+                "draw": 2,
+                "lose": 8,
+                "goals": {
+                  "for": 19,
+                  "against": 25
+                }
+              },
+              "update": "2023-11-12T00:00:00+00:00"
+            },
+            {
+              "rank": 11,
+              "team": {
+                "id": 2337,
+                "name": "Nublense",
+                "logo": "https://media-4.api-sports.io/football/teams/2337.png"
+              },
+              "points": 34,
+              "goalsDiff": -3,
+              "group": "Primera División",
+              "form": "DLWWW",
+              "status": "down",
+              "description": null,
+              "all": {
+                "played": 27,
+                "win": 9,
+                "draw": 7,
+                "lose": 11,
+                "goals": {
+                  "for": 31,
+                  "against": 34
+                }
+              },
+              "home": {
+                "played": 14,
+                "win": 4,
+                "draw": 4,
+                "lose": 6,
+                "goals": {
+                  "for": 16,
+                  "against": 21
+                }
+              },
+              "away": {
+                "played": 13,
+                "win": 5,
+                "draw": 3,
+                "lose": 5,
+                "goals": {
+                  "for": 15,
+                  "against": 13
+                }
+              },
+              "update": "2023-11-12T00:00:00+00:00"
+            },
+            {
+              "rank": 12,
+              "team": {
+                "id": 2321,
+                "name": "Union Espanola",
+                "logo": "https://media-4.api-sports.io/football/teams/2321.png"
+              },
+              "points": 33,
+              "goalsDiff": 5,
+              "group": "Primera División",
+              "form": "DLDLD",
+              "status": "down",
+              "description": null,
+              "all": {
+                "played": 27,
+                "win": 8,
+                "draw": 9,
+                "lose": 10,
+                "goals": {
+                  "for": 37,
+                  "against": 32
+                }
+              },
+              "home": {
+                "played": 14,
+                "win": 6,
+                "draw": 5,
+                "lose": 3,
+                "goals": {
+                  "for": 26,
+                  "against": 15
+                }
+              },
+              "away": {
+                "played": 13,
+                "win": 2,
+                "draw": 4,
+                "lose": 7,
+                "goals": {
+                  "for": 11,
+                  "against": 17
+                }
+              },
+              "update": "2023-11-12T00:00:00+00:00"
+            },
+            {
+              "rank": 13,
+              "team": {
+                "id": 2320,
+                "name": "O'Higgins",
+                "logo": "https://media-4.api-sports.io/football/teams/2320.png"
+              },
+              "points": 31,
+              "goalsDiff": -3,
+              "group": "Primera División",
+              "form": "DLLLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 27,
+                "win": 8,
+                "draw": 7,
+                "lose": 12,
+                "goals": {
+                  "for": 35,
+                  "against": 38
+                }
+              },
+              "home": {
+                "played": 13,
+                "win": 2,
+                "draw": 4,
+                "lose": 7,
+                "goals": {
+                  "for": 14,
+                  "against": 19
+                }
+              },
+              "away": {
+                "played": 14,
+                "win": 6,
+                "draw": 3,
+                "lose": 5,
+                "goals": {
+                  "for": 21,
+                  "against": 19
+                }
+              },
+              "update": "2023-11-12T00:00:00+00:00"
+            },
+            {
+              "rank": 14,
+              "team": {
+                "id": 2343,
+                "name": "Deportes Copiapo",
+                "logo": "https://media-4.api-sports.io/football/teams/2343.png"
+              },
+              "points": 29,
+              "goalsDiff": -15,
+              "group": "Primera División",
+              "form": "LWLWD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 27,
+                "win": 7,
+                "draw": 8,
+                "lose": 12,
+                "goals": {
+                  "for": 27,
+                  "against": 42
+                }
+              },
+              "home": {
+                "played": 13,
+                "win": 5,
+                "draw": 4,
+                "lose": 4,
+                "goals": {
+                  "for": 19,
+                  "against": 24
+                }
+              },
+              "away": {
+                "played": 14,
+                "win": 2,
+                "draw": 4,
+                "lose": 8,
+                "goals": {
+                  "for": 8,
+                  "against": 18
+                }
+              },
+              "update": "2023-11-12T00:00:00+00:00"
+            },
+            {
+              "rank": 15,
+              "team": {
+                "id": 2336,
+                "name": "Magallanes",
+                "logo": "https://media-4.api-sports.io/football/teams/2336.png"
+              },
+              "points": 23,
+              "goalsDiff": -15,
+              "group": "Primera División",
+              "form": "DLLLL",
+              "status": "same",
+              "description": "Relegation",
+              "all": {
+                "played": 27,
+                "win": 6,
+                "draw": 5,
+                "lose": 16,
+                "goals": {
+                  "for": 28,
+                  "against": 43
+                }
+              },
+              "home": {
+                "played": 14,
+                "win": 4,
+                "draw": 4,
+                "lose": 6,
+                "goals": {
+                  "for": 15,
+                  "against": 19
+                }
+              },
+              "away": {
+                "played": 13,
+                "win": 2,
+                "draw": 1,
+                "lose": 10,
+                "goals": {
+                  "for": 13,
+                  "against": 24
+                }
+              },
+              "update": "2023-11-12T00:00:00+00:00"
+            },
+            {
+              "rank": 16,
+              "team": {
+                "id": 2316,
+                "name": "Curico Unido",
+                "logo": "https://media-4.api-sports.io/football/teams/2316.png"
+              },
+              "points": 23,
+              "goalsDiff": -22,
+              "group": "Primera División",
+              "form": "DLDLL",
+              "status": "same",
+              "description": "Relegation",
+              "all": {
+                "played": 27,
+                "win": 6,
+                "draw": 5,
+                "lose": 16,
+                "goals": {
+                  "for": 27,
+                  "against": 49
+                }
+              },
+              "home": {
+                "played": 13,
+                "win": 3,
+                "draw": 0,
+                "lose": 10,
+                "goals": {
+                  "for": 12,
+                  "against": 25
+                }
+              },
+              "away": {
+                "played": 14,
+                "win": 3,
+                "draw": 5,
+                "lose": 6,
+                "goals": {
+                  "for": 15,
+                  "against": 24
+                }
+              },
+              "update": "2023-11-12T00:00:00+00:00"
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

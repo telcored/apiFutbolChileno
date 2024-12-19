@@ -1,0 +1,33 @@
+RAPIDAPI : https://api-football-v1.p.rapidapi.com/v3/
+
+API DEPORTES : https://v3.football.api-sports.io/
+
+API  KEY: a1212389ecfd9bbe3eb0b98c4fada740
+
+
+
+
+
+
+URL Base
+https://conmebol-api.vercel.app/
+Endpoints
+GET /: Muestra un mensaje de bienvenida y proporciona un enlace a la documentación de la API.
+
+GET /api/classification: Permite obtener las clasificaciones de los países que forman parte de la CONMEBOL.
+
+GET /api/results: Permite obtener los resultados de las últimas jornadas de los partidos jugados en la CONMEBOL.
+
+GET /api/matches: Permite obtener información sobre los próximos partidos de la CONMEBOL y los partidos que se están jugando en vivo.
+
+Uso
+En el siguiente enlace devolverá un objeto json de los resultados de los últimos días de los partidos jugados.
+
+https://conmebol-api.vercel.app/api/results
+
+
+
+
+
+Libertadores 2024
+liga = 13
